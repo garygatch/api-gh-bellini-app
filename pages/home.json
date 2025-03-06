@@ -99,6 +99,33 @@
       "comments": "",
       "type": "custom-component",
       "expressions": []
+    },
+    {
+      "name": "g1",
+      "nodeName": "g1",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "_wmOUr"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "custom-component",
+      "expressions": []
     }
   ]
 }
