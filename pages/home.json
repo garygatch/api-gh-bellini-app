@@ -3,6 +3,102 @@
   "type": "page",
   "url": "/home",
   "params": {},
-  "variables": [],
-  "children": []
+  "variables": [
+    {
+      "name": "a",
+      "type": "service",
+      "id": "service"
+    }
+  ],
+  "children": [
+    {
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "v1h36_"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": []
+    },
+    {
+      "name": "Breadcrumbs",
+      "nodeName": "bln-breadcrumbs",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "5LAasd"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": []
+    },
+    {
+      "name": "a",
+      "nodeName": "a",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "guG4bt"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "custom-component",
+      "expressions": []
+    }
+  ]
 }

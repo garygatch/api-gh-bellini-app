@@ -1,0 +1,17 @@
+{
+  "type": "app-service",
+  "name": "a",
+  "description": "",
+  "singleton": true,
+  "variables": [
+    {
+      "name": "a",
+      "type": "property",
+      "description": "",
+      "value": ""
+    }
+  ],
+  "visible": [
+    "a"
+  ]
+}
