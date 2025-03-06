@@ -5,6 +5,11 @@
   "params": {},
   "variables": [
     {
+      "name": "petstore",
+      "type": "open-api",
+      "id": "open-api"
+    },
+    {
       "name": "a",
       "type": "service",
       "id": "service"
